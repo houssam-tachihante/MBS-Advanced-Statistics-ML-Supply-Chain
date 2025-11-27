@@ -11,7 +11,7 @@ The objective is to apply machine learning models to detect fraudulent orders an
 
 ---
 
-## 🚀 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Logistic Regression (baseline)
 - Random Forest Classifier (best model)
@@ -30,7 +30,7 @@ Random Forest achieved **perfect performance** on both tasks.
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 - Logistic Regression failed to detect fraud.
 - Random Forest provided perfect classification and is recommended for supply chain analytics.
