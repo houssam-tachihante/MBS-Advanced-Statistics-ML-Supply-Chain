@@ -40,7 +40,6 @@ Random Forest achieved **perfect performance** on both tasks.
 
 ## 📝 Author
 **Houssam Tachihante**  
-Montpellier Business School  
-Master in Supply Chain Management
+
 
 
