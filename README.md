@@ -12,10 +12,10 @@ The objective is to apply machine learning models to detect fraudulent orders an
 
 ```
 MBS-Advanced-Statistics-ML-Supply-Chain
-│── notebook.ipynb
+│── Advanced_statistics.ipynb
 │── top5_fraud_detection.png
 │── top5_late_delivery.png
-│── Report_Houssam.pdf
+│── Advanced_Statistics_Assignment_2 (3).pdf
 │── README.md
 ```
 
