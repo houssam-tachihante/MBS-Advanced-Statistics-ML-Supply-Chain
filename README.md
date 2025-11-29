@@ -64,6 +64,22 @@ Random Forest achieved **perfect performance** on both tasks.
 - Feature importance analysis shows that delivery timing, shipping delays, and abnormal patterns are critical predictors.
 
 ---
+##  Results & Interpretation
+Models are evaluated on both fraud detection and late delivery prediction.
+
+Performance is measured with Accuracy, Recall, and F1-score.
+
+The Random Forest and Logistic Regression models are compared to choose the best one for each task.
+
+Feature importance analysis identifies the top drivers of:
+
+Order fraud (e.g., financial metrics, order value, discounts)
+Late delivery (e.g., days for shipping, shipping mode, region)
+These insights can be used to:
+
+Flag high-risk orders for manual review
+Improve logistics planning and shipping strategies
+Focus monitoring on the most influential risk factors
 
 ## 📝 Author
 **Houssam Tachihante**  
