@@ -7,7 +7,22 @@ The objective is to apply machine learning models to detect fraudulent orders an
 
 ---
 
-## 📦 Project Structure
+## 🔍 Feature Importance Visualizations
+
+The model analyses were complemented with two feature importance charts, showing the most influential variables for each prediction task.
+
+### 1️⃣ Top 5 Features — Fraud Detection
+This chart highlights the variables that contributed most strongly to detecting fraudulent transactions.  
+These features typically include unusual timing behaviors, suspicious order patterns, inconsistent customer profiles, and anomalies in order processing.
+
+![Top 5 Features for Fraud Detection](top5_fraud_detection.png)
+
+---
+
+### 2️⃣ Top 5 Features — Late Delivery Prediction
+This chart shows the key drivers behind late deliveries, including delivery delays, geographic factors, shipping route complexity, and operational timing differences.
+
+![Top 5 Features for Late Delivery](top5_late_delivery.png)
 
 ---
 
