@@ -8,8 +8,6 @@ The objective is to apply machine learning models to detect fraudulent orders an
 
 ## 📁 Repository Structure
 
-## 📁 Repository Structure
-
 ```
 MBS-Advanced-Statistics-ML-Supply-Chain
 │── Advanced_statistics.ipynb
