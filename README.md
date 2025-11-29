@@ -8,12 +8,16 @@ The objective is to apply machine learning models to detect fraudulent orders an
 
 ## 📁 Repository Structure
 
-📁 MBS-Advanced-Statistics-ML-Supply-Chain
+## 📁 Repository Structure
+
+```
+MBS-Advanced-Statistics-ML-Supply-Chain
 │── notebook.ipynb
 │── top5_fraud_detection.png
 │── top5_late_delivery.png
 │── Report_Houssam.pdf
 │── README.md
+```
 
 
 ---
