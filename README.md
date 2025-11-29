@@ -4,6 +4,16 @@ Machine learning models applied to supply chain fraud and late delivery predicti
 
 This repository contains the complete work for the MBS Advanced Statistics assignment.
 The objective is to apply machine learning models to detect fraudulent orders and predict late deliveries using the DataCoSupplyChain dataset.
+---
+
+## 📁 Repository Structure
+
+📁 MBS-Advanced-Statistics-ML-Supply-Chain
+│── Advanced_statistics.ipynb                  # Google Colab notebook
+│── top5_fraud_detection.png                   # Top features for fraud detection
+│── top5_late_delivery.png                     # Top features for late delivery
+│── Advanced_Statistics_Assignment_2 (3).pdf   # Final academic report
+│── README.md                                  # Documentation
 
 ---
 
